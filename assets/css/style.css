@@ -3,10 +3,10 @@ html {
 	margin: auto;
 }
 
-body {
-	width: 960px;	
+body {	
 	background-image: url(../images/background.png);
 	background-repeat: repeat;
+	width: 960px;
 	vertical-align: middle;
 	display: table-cell;
 	font-size: 18px;
@@ -177,7 +177,7 @@ input[type=submit] {
 
 div.placecontainer {
 	float: left;
-	margin: 0px 20px;
+	margin: 0px 30px;
 }
 
 img.placeholder {
