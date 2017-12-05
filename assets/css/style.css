@@ -1,15 +1,22 @@
 html {
-	display: table;
-	margin: auto;
+	/* display: table; */
+	/* margin: auto; */
 }
 
 body {	
 	background-image: url(../images/background.png);
 	background-repeat: repeat;
-	width: 960px;
-	vertical-align: middle;
-	display: table-cell;
+	/* width: 960px; */
+	/* vertical-align: middle; */
+	/* display: table-cell; */
 	font-size: 18px;
+}
+
+div.width {
+	display: table;
+	margin: auto;
+	width: 960px;
+
 }
 
 header {
@@ -40,6 +47,7 @@ h1 {
 	/* vertical-align: middle; */
 	float: right;
 	margin-top: 40px;
+	
 
 }
 
